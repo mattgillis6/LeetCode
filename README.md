@@ -1,1 +1,1 @@
-# This is a folders of programs used for Leetcode 
+# A repository strictly for LeetCode problems
