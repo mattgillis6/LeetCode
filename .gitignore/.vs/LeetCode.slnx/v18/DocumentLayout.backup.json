@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mattg\\source\\repos\\LeetCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mattg\\source\\repos\\LeetCode\\9-Palindrome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:9-Palindrome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mattg\\source\\repos\\LeetCode\\13-RomanToInteger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-RomanToInteger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mattg\\source\\repos\\LeetCode\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mattg\\source\\repos\\LeetCode\\1-TwoSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1-TwoSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "13-RomanToInteger.cpp",
+              "DocumentMoniker": "C:\\Users\\mattg\\source\\repos\\LeetCode\\13-RomanToInteger.cpp",
+              "RelativeDocumentMoniker": "13-RomanToInteger.cpp",
+              "ToolTip": "C:\\Users\\mattg\\source\\repos\\LeetCode\\13-RomanToInteger.cpp",
+              "RelativeToolTip": "13-RomanToInteger.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-03T03:56:44.81Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,35 +41,9 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\mattg\\source\\repos\\LeetCode\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-10-02T02:37:34.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "9-Palindrome.cpp",
-              "DocumentMoniker": "C:\\Users\\mattg\\source\\repos\\LeetCode\\9-Palindrome.cpp",
-              "RelativeDocumentMoniker": "9-Palindrome.cpp",
-              "ToolTip": "C:\\Users\\mattg\\source\\repos\\LeetCode\\9-Palindrome.cpp",
-              "RelativeToolTip": "9-Palindrome.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-02T02:35:39.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "1-TwoSum.cpp",
-              "DocumentMoniker": "C:\\Users\\mattg\\source\\repos\\LeetCode\\1-TwoSum.cpp",
-              "RelativeDocumentMoniker": "1-TwoSum.cpp",
-              "ToolTip": "C:\\Users\\mattg\\source\\repos\\LeetCode\\1-TwoSum.cpp",
-              "RelativeToolTip": "1-TwoSum.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-01T03:41:02.27Z",
+              "WhenOpened": "2026-10-02T02:43:58.402Z",
               "EditorCaption": ""
             }
           ]
