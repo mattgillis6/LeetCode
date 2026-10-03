@@ -1,1 +1,1 @@
-# A repository strictly for LeetCode problems.
+# A repository strictly for LeetCode problems
