@@ -6,24 +6,26 @@ public:
     int longestConsecutive(vector<int>& nums) {
         std::unordered_set<int> set(nums.begin(), nums.end());
         int longest_sequence{ 1 };
+        int sequence{ 1 };
         int next_number{};
 
         if (set.size() == 0) {
             return 0;
         }
 
-        for (int i = 0; i < nums.size(); i++) {
+        for (int i : set) {
 
-            if (set.contains(nums[i] - 1)) {
+            if (set.contains(i - 1)) {
                 continue;
             }
-            if (set.contains(nums[i] + 1)) {
-                next_number = nums[i] + 1;
-
+            if (set.contains(i + 1)) {
+                next_number = i + 1;
+                sequence = 1;
                 while (set.contains(next_number)) {
-                    longest_sequence++;
+                    sequence++;
                     next_number++;
                 }
+                longest_sequence = std::max(longest_sequence, sequence);
             }
         }
         return longest_sequence;
